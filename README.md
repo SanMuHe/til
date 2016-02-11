@@ -4,6 +4,9 @@
 
 A collection of things I learn every day accross different techniques, programming languages, and tools.
 
+## Vim
+- [Tabs To Spaces](vim/tabs-to-spaces.md)
+
 ## About
 
 This repo is inspired by [thoughtbot/til](https://github.com/thoughtbot/til).
