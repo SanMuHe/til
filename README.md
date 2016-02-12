@@ -4,6 +4,9 @@
 
 A collection of things I learn every day accross different techniques, programming languages, and tools.
 
+## Python
+- [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
+
 ## Vim
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 
