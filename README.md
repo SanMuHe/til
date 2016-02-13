@@ -8,6 +8,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
 
 ## Vim
+- [Smart Case Search](vim/smart-case-search.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 
 ## About
