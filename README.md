@@ -9,6 +9,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Ternary Operator](python/ternary-operator.md)
 
 ## Vim
+- [Make Space and Tab Visible](vim/make-space-and-tab-visible.md)
 - [Smart Case Search](vim/smart-case-search.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 
