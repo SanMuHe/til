@@ -4,6 +4,9 @@
 
 A collection of things I learn every day accross different techniques, programming languages, and tools.
 
+## Linux
+- [Find Disk Usage](linux/find-disk-usage.md)
+
 ## Python
 - [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
 - [Ternary Operator](python/ternary-operator.md)
