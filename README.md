@@ -5,6 +5,7 @@
 A collection of things I learn every day accross different techniques, programming languages, and tools.
 
 ## Linux
+- [Find Size of Directory](linux/find-directory-size.md)
 - [Find Disk Usage](linux/find-disk-usage.md)
 
 ## Python
