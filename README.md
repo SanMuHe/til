@@ -10,6 +10,7 @@ A collection of things I learn every day accross different techniques, programmi
 
 ## Python
 - [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
+- [Python Project Structure](python/python-project-structure.md)
 - [Ternary Operator](python/ternary-operator.md)
 
 ## Vim
