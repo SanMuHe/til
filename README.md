@@ -7,6 +7,7 @@ A collection of things I learn every day accross different techniques, programmi
 ## Linux
 - [Find Size of Directory](linux/find-directory-size.md)
 - [Find Disk Usage](linux/find-disk-usage.md)
+- [List Directories in Tree-Like Format](linux/list-directories-in-tree-like-format.md)
 
 ## Python
 - [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
