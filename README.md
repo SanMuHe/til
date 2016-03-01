@@ -7,6 +7,7 @@ A collection of things I learn every day accross different techniques, programmi
 ## Linux
 - [Find Size of Directory](linux/find-directory-size.md)
 - [Find Disk Usage](linux/find-disk-usage.md)
+- [Find File in Directory Recursively](linux/find-file-in-directory-recursively.md)
 - [List Directories in Tree-Like Format](linux/list-directories-in-tree-like-format.md)
 
 ## Python
