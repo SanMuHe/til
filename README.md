@@ -9,6 +9,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Find Disk Usage](linux/find-disk-usage.md)
 - [Find File in Directory Recursively](linux/find-file-in-directory-recursively.md)
 - [List Directories in Tree-Like Format](linux/list-directories-in-tree-like-format.md)
+- [Vi Mode in Bash](linux/vi-mode-in-bash.md)
 
 ## Python
 - [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
