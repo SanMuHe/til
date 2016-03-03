@@ -17,6 +17,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Ternary Operator](python/ternary-operator.md)
 
 ## Vim
+- [Move to First or Last Non-Blank Character of Line](vim/first-last-non-blank-character-of-line.md)
 - [Insert Special Characters](vim/insert-special-characters.md)
 - [Make Space and Tab Visible](vim/make-space-and-tab-visible.md)
 - [Smart Case Search](vim/smart-case-search.md)
