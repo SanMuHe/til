@@ -18,6 +18,7 @@ A collection of things I learn every day accross different techniques, programmi
 
 ## Vim
 - [Backspace Options](vim/backspace-options.md)
+- [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
 - [Move to First or Last Non-Blank Character of Line](vim/first-last-non-blank-character-of-line.md)
 - [Insert Special Characters](vim/insert-special-characters.md)
 - [Make Space and Tab Visible](vim/make-space-and-tab-visible.md)
