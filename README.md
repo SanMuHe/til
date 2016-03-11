@@ -20,6 +20,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Backspace Options](vim/backspace-options.md)
 - [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
 - [Black Hole Register](vim/black-hole-register.md)
+- [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Count Words](vim/count-words.md)
 - [Move to First or Last Non-Blank Character of Line](vim/first-last-non-blank-character-of-line.md)
 - [Insert Special Characters](vim/insert-special-characters.md)
