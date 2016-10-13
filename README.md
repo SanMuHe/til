@@ -27,6 +27,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Move to First or Last Non-Blank Character of Line](vim/first-last-non-blank-character-of-line.md)
 - [Insert Special Characters](vim/insert-special-characters.md)
 - [Make Space and Tab Visible](vim/make-space-and-tab-visible.md)
+- [Not An Editor Command Issue With Vundle](vim/not-an-editor-command-issue-with-vundle.md)
 - [Smart Case Search](vim/smart-case-search.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 
