@@ -31,6 +31,10 @@ A collection of things I learn every day accross different techniques, programmi
 - [Smart Case Search](vim/smart-case-search.md)
 - [Tabs To Spaces](vim/tabs-to-spaces.md)
 
+## Git
+
+- [Sparse Checkout](Git/sparse-checkout.md)
+
 ## About
 
 This repo is inspired by [thoughtbot/til](https://github.com/thoughtbot/til).
