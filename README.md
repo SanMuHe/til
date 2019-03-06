@@ -38,6 +38,10 @@ A collection of things I learn every day accross different techniques, programmi
 
 - [Sparse Checkout](Git/sparse-checkout.md)
 
+## Misc
+
+- [Fix Corrupt Sqlite3 Database](misc/fix-corrupt-sqlite3-db.md)
+
 ## About
 
 This repo is inspired by [thoughtbot/til](https://github.com/thoughtbot/til).
