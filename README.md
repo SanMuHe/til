@@ -1,10 +1,11 @@
 # TIL
 
-> Today I Learned 
+> Today I Learned
 
 A collection of things I learn every day accross different techniques, programming languages, and tools.
 
 ## Linux
+
 - [Find Size of Directory](linux/find-directory-size.md)
 - [Find Disk Usage](linux/find-disk-usage.md)
 - [Find File in Directory Recursively](linux/find-file-in-directory-recursively.md)
@@ -14,11 +15,13 @@ A collection of things I learn every day accross different techniques, programmi
 - [Vi Mode in Bash](linux/vi-mode-in-bash.md)
 
 ## Python
+
 - [Define Python Source Code Encoding](python/define-python-source-code-encoding.md)
 - [Python Project Structure](python/python-project-structure.md)
 - [Ternary Operator](python/ternary-operator.md)
 
 ## Vim
+
 - [Backspace Options](vim/backspace-options.md)
 - [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
 - [Black Hole Register](vim/black-hole-register.md)
