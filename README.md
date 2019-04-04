@@ -37,6 +37,7 @@ A collection of things I learn every day accross different techniques, programmi
 ## Git
 
 - [Sparse Checkout](Git/sparse-checkout.md)
+- [Rename Local Branch](Git/rename-local-branch.md)
 
 ## Misc
 
