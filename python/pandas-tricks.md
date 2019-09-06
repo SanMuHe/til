@@ -42,6 +42,9 @@ df = pd.read_clipboard()
 ## Filter a DataFrame by multiple categories
 
 ```python
+# Use the "and" operator
+movies[(movies.genre == 'Action') & (movies.year == 2018)]
+
 # Use the "or" operator
 movies[(movies.genre == 'Action') | (movies.genre == 'Drama') | (movies.genre == 'Western')]
 
