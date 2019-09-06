@@ -54,7 +54,8 @@ movies[~movies.genre.isin(['Action', 'Drama', 'Western'])]
 
 ## Filter a DataFrame by largest categories
 
-```pythonmovies[movies.genre.isin(counts.nlargest(3).index)]
+```python
+movies[movies.genre.isin(counts.nlargest(3).index)]
 ```
 
 ## Split a string into multiple columns
