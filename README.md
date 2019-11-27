@@ -12,6 +12,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [Grep Exclude Pattern](linux/grep-exclude-pattern.md)
 - [Grep Recursively](linux/grep-recursively.md)
 - [List Directories in Tree-Like Format](linux/list-directories-in-tree-like-format.md)
+- [Linux Screen](linux/linux-screen.md)
 - [Vi Mode in Bash](linux/vi-mode-in-bash.md)
 
 ## Python
