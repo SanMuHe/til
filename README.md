@@ -40,6 +40,7 @@ A collection of things I learn every day accross different techniques, programmi
 
 - [Sparse Checkout](Git/sparse-checkout.md)
 - [Rename Local Branch](Git/rename-local-branch.md)
+- [Undo Last Commit](Git/undo-last-commit.md)
 
 ## Misc
 
