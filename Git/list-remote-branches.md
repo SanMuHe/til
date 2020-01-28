@@ -1,4 +1,4 @@
-# List Remote Branch
+# List Remote Branches
 
 Use the below commands to list all remote branches
 
