@@ -46,6 +46,7 @@ A collection of things I learn every day accross different techniques, programmi
 ## Misc
 
 - [Fix Corrupt Sqlite3 Database](misc/fix-corrupt-sqlite3-db.md)
+- [pbcopy and pbpast in Mac OSX](misc/pbcopy-and-pbpast-in-mac-osx.md)
 
 ## About
 
