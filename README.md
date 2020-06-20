@@ -6,6 +6,7 @@ A collection of things I learn every day accross different techniques, programmi
 
 ## Linux
 
+- [Check Raspbian Version](linux/check-raspbian-version.md)
 - [Find Size of Directory](linux/find-directory-size.md)
 - [Find Disk Usage](linux/find-disk-usage.md)
 - [Find File in Directory Recursively](linux/find-file-in-directory-recursively.md)
