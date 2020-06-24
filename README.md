@@ -40,6 +40,7 @@ A collection of things I learn every day accross different techniques, programmi
 ## Git
 
 - [List Remote Branches](Git/list-remote-branches.md)
+- [Revert File to a Commit](Git/revert-file-to-a-commit.md)
 - [Sparse Checkout](Git/sparse-checkout.md)
 - [Rename Local Branch](Git/rename-local-branch.md)
 - [Undo Last Commit](Git/undo-last-commit.md)
