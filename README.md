@@ -15,6 +15,7 @@ A collection of things I learn every day accross different techniques, programmi
 - [List Directories in Tree-Like Format](linux/list-directories-in-tree-like-format.md)
 - [Linux Screen](linux/linux-screen.md)
 - [Vi Mode in Bash](linux/vi-mode-in-bash.md)
+- [Vi Mode in Zsh](linux/vi-mode-in-zsh.md)
 
 ## Python
 
